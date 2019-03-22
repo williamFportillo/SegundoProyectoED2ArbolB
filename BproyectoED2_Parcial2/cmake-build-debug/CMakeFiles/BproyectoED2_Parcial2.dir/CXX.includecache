@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WilliamPC/CLionProjects/BproyectoED2_Parcial2/Nodo.cpp
+Nodo.h
+C:/Users/WilliamPC/CLionProjects/BproyectoED2_Parcial2/Nodo.h
+
+C:/Users/WilliamPC/CLionProjects/BproyectoED2_Parcial2/Nodo.h
+
+C:/Users/WilliamPC/CLionProjects/BproyectoED2_Parcial2/arbolB.cpp
+cstdlib
+-
+fstream
+-
+conio.h
+-
+arbolB.h
+C:/Users/WilliamPC/CLionProjects/BproyectoED2_Parcial2/arbolB.h
+
+C:/Users/WilliamPC/CLionProjects/BproyectoED2_Parcial2/arbolB.h
+iostream
+-
+Nodo.h
+C:/Users/WilliamPC/CLionProjects/BproyectoED2_Parcial2/Nodo.h
+
+C:/Users/WilliamPC/CLionProjects/BproyectoED2_Parcial2/main.cpp
+cstdlib
+-
+iostream
+-
+arbolB.h
+C:/Users/WilliamPC/CLionProjects/BproyectoED2_Parcial2/arbolB.h
+
